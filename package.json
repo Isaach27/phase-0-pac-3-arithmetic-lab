@@ -7,7 +7,7 @@
     "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json"
   },
   "repository": {
-    "type": "git",
+    "type": "git",  
     "url": "git+ssh://git@github.com/learn-co-curriculum/java-script-arithmetic-lab.git"
   },
   "keywords": [
