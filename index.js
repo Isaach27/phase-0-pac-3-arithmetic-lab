@@ -20,8 +20,12 @@ return a -= 1
 function makeInt(n){
  return   parseInt(n, 10)
 } 
-function preserveDecimal(n){
-
-    parseFloat(n)
-    
+function preserveDecimal(a) {
+return parseFloat(a)
 }
+
+//function preserveDecimal(n){
+
+  //  parseFloat(n)
+    
+//}
